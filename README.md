@@ -13,13 +13,13 @@ In today’s highly competitive airline industry, retaining loyal customers is j
 The analysis is designed to uncover trends, identify customer segments, and provide insights that could inform smarter promotional strategies and loyalty program improvements.
 
 # 🎯 Why It Matters
-## ✈️ Relevance of Loyalty Programs in the Airline Industry
+### ✈️ Relevance of Loyalty Programs in the Airline Industry
 Customer loyalty programs are more than just point-accumulation systems — they are strategic tools that help airlines build long-term relationships with frequent flyers. Understanding the behavior and preferences of loyalty program members allows airlines to tailor offerings, enhance customer experience, and maintain a competitive edge.
 
 ## 📈 Impact of Well-Designed Promotional Campaigns
 A well-thought-out, data-driven promotional campaign can significantly increase customer engagement, boost flight bookings, and strengthen brand loyalty. By identifying the most active customer segments, optimal promotional periods, and preferred destinations, airlines can design targeted promotions that resonate with their audience and maximize returns. Data-backed promotions ensure marketing efforts are efficient, timely, and aligned with actual customer preferences.
 
-## 🔍 The Importance of Data Analysis in Surfacing Trends
+### 🔍 The Importance of Data Analysis in Surfacing Trends
 Raw data on its own can be overwhelming and difficult to interpret. Through exploratory data analysis, we can transform raw flight and membership data into actionable insights. This includes uncovering:
 
 * Trends in customer flight activity
