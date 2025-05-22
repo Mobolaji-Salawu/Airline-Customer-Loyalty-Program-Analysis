@@ -1,12 +1,12 @@
 # ✈️ Airline Customer Loyalty Program Analysis
 A data exploration project by Mobolaji Salawu
 
-📑 Overview
+# 📑 Overview
 In today’s highly competitive airline industry, retaining loyal customers is just as crucial as acquiring new ones. Customer loyalty programs play a pivotal role in strengthening customer relationships, enhancing brand preference, and driving repeat bookings. This project conducts an exploratory data analysis (EDA) on two key datasets:
 
-Customer Loyalty Program Members Data: detailing customer profiles and loyalty status.
+* **Customer Loyalty Program Members Data:** containing customer demographic details and membership information
 
-Customer Flight Activity Data: tracking travel patterns and booking behaviors.
+Customer Flight Activity Data: tracking loyalty members flight histories
 
 The analysis is designed to uncover trends, identify customer segments, and provide insights that could inform smarter promotional strategies and loyalty program improvements.
 
