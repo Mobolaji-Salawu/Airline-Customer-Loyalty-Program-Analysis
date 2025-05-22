@@ -1,4 +1,4 @@
-✈️ Airline Customer Loyalty Program Analysis
+# ✈️ Airline Customer Loyalty Program Analysis
 A data exploration project by Mobolaji Salawu
 
 📑 Overview
