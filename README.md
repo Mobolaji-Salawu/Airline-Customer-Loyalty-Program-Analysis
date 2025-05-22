@@ -1,3 +1,5 @@
+![Airline_Loyalty_Program_EDA](https://github.com/user-attachments/assets/e91f0841-3861-4be7-9250-195b1dc6e9f5)
+
 # ✈️ Airline Customer Loyalty Program Analysis
 A data exploration project by Mobolaji Salawu
 
