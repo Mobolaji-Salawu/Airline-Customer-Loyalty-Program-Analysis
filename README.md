@@ -42,6 +42,7 @@ The following datasets were used for this analysis:
 
 # 📓 Project Notebook
 The full analysis, visualizations, and commentary are available in the accompanying Jupyter Notebook:
+
 📄 [Airline Loyalty Program Analysis.ipynb](https://github.com/Mobolaji-Salawu/Airline-Customer-Loyalty-Program-Analysis/blob/main/Airline_Loyalty_Program_Analysis.ipynb)
 
 # 🚀 Conclusion
