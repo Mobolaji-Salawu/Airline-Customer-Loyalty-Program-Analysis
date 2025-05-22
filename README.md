@@ -8,7 +8,7 @@ In today’s highly competitive airline industry, retaining loyal customers is j
 
 * **Customer Loyalty Program Members Data:** containing customer demographic details and membership information
 
-* **Customer Flight Activity Data:** tracking loyalty members flight histories
+* **Customer Flight Activity Data:** tracking loyalty members flight history and booking activity
 
 The analysis is designed to uncover trends, identify customer segments, and provide insights that could inform smarter promotional strategies and loyalty program improvements.
 
