@@ -20,15 +20,14 @@ Customer loyalty programs are more than just point-accumulation systems — they
 A well-thought-out, data-driven promotional campaign can significantly increase customer engagement, boost flight bookings, and strengthen brand loyalty. By identifying the most active customer segments, optimal promotional periods, and preferred destinations, airlines can design targeted promotions that resonate with their audience and maximize returns. Data-backed promotions ensure marketing efforts are efficient, timely, and aligned with actual customer preferences.
 
 ## 🔍 The Importance of Data Analysis in Surfacing Trends
-Raw data is just noise without proper analysis. Through exploratory data analysis, we can transform complex flight activity logs and loyalty membership records into clear, actionable insights:
+Raw data on its own can be overwhelming and difficult to interpret. Through exploratory data analysis, we can transform raw flight and membership data into actionable insights. This includes uncovering:
 
-Discover trends in customer flight frequency and preferred routes.
+* Trends in customer flight activity.
+* Correlations between loyalty program status and travel behavior.
 
-Identify correlations between loyalty status and travel habits.
+* Seasonal patterns and peak travel periods.
 
-Uncover seasonal travel patterns and high-value customer segments.
-
-Highlight opportunities for targeted marketing and service improvements.
+* Segments of customers with high potential for targeted marketing.
 
 📊 Project Highlights
 Performed data cleaning, transformation, and exploratory analysis using Python and popular libraries.
