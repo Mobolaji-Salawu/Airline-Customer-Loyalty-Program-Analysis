@@ -42,7 +42,7 @@ The following datasets were used for this analysis:
 
 # 📓 Project Notebook
 The full analysis, visualizations, and commentary are available in the accompanying Jupyter Notebook:
-📄 Airline Loyalty Program Analysis.ipynb
+📄 [Airline Loyalty Program Analysis.ipynb](https://github.com/Mobolaji-Salawu/Airline-Customer-Loyalty-Program-Analysis/blob/main/Airline_Loyalty_Program_Analysis.ipynb)
 
 # 🚀 Conclusion
 This project demonstrates how data analysis can elevate business strategy in the airline industry — from optimizing loyalty programs to designing smarter promotional campaigns. By surfacing insights from raw datasets, airlines can enhance their marketing efforts, improve customer experience, and build stronger, data-informed relationships with their most valuable travelers.
