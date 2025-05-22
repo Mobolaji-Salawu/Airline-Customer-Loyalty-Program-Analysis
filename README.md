@@ -22,32 +22,27 @@ A well-thought-out, data-driven promotional campaign can significantly increase 
 ## 🔍 The Importance of Data Analysis in Surfacing Trends
 Raw data on its own can be overwhelming and difficult to interpret. Through exploratory data analysis, we can transform raw flight and membership data into actionable insights. This includes uncovering:
 
-* Trends in customer flight activity.
-* Correlations between loyalty program status and travel behavior.
+* Trends in customer flight activity
+* Seasonal patterns and peak travel periods
+* Segments of customers with high potential for targeted marketing
 
-* Seasonal patterns and peak travel periods.
+# 📊 Project Highlights
+* Performed data cleaning, transformation, and exploratory analysis using Python and popular libraries
+** `numpy`, `pandas`, `bokeh`
+* Visualized customer demographic distribution
+* Analyzed trends in loyalty program membership growth
+* Uncovered trends in loyalty members travel activity
+* Identified actionable insights from previous promotional campaign
 
-* Segments of customers with high potential for targeted marketing.
+# 📂 Datasets
+The following datasets were used for this analysis:
 
-📊 Project Highlights
-Performed data cleaning, transformation, and exploratory analysis using Python and popular libraries.
+* `Customer Flight Activity.csv`
+* `Customer Loyalty History.csv`
 
-Visualized customer demographics and membership distribution.
-
-Analyzed trends in flight activity segmented by loyalty status and travel history.
-
-Identified actionable insights to support promotional strategy development.
-
-📂 Datasets
-The following datasets were used for this analysis (simulated for demonstration purposes):
-
-customer_loyalty_history.csv
-
-customer_flight_activity.csv
-
-📓 Project Notebook
+# 📓 Project Notebook
 The full analysis, visualizations, and commentary are available in the accompanying Jupyter Notebook:
 📄 Airline Loyalty Program Analysis.ipynb
 
-🚀 Conclusion
-This project demonstrates how data analysis can elevate business strategy in the airline industry — from optimizing loyalty programs to designing smarter promotional campaigns. By surfacing trends and insights from raw datasets, airlines can make informed, customer-centric decisions that drive value for both the business and its passengers.
+# 🚀 Conclusion
+This project demonstrates how data analysis can elevate business strategy in the airline industry — from optimizing loyalty programs to designing smarter promotional campaigns. By surfacing insights from raw datasets, airlines can enhance their marketing efforts, improve customer experience, and build stronger, data-informed relationships with their most valuable travelers.
